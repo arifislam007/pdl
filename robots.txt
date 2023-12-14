@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Sitemap: http://badshatex.com//sitemap/sitemap-m1.xml
+Sitemap: http://badshatex.com//sitemap/sitemap-m2.xml
+Sitemap: http://badshatex.com//sitemap/sitemap-m3.xml
+Sitemap: http://badshatex.com//sitemap/sitemap-m4.xml
+Sitemap: http://badshatex.com//sitemap/sitemap-m5.xml
+Sitemap: http://badshatex.com//sitemap/sitemap-m6.xml
+Sitemap: http://badshatex.com//sitemap/sitemap-m7.xml
+Sitemap: http://badshatex.com//sitemap/sitemap-m8.xml
+Sitemap: http://badshatex.com//sitemap/sitemap-m9.xml
+Sitemap: http://badshatex.com//sitemap/sitemap-m10.xml
